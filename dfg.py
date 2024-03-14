@@ -9,6 +9,3 @@ print(my_downloader.extensions)
 
 my_downloader.download('Auto', limit=100)
 my_downloader.download('Bus', limit=100)
-# my_downloader.download('Symphony-Air-Cooler', limit=100)
-# my_downloader.download('D', limit=50)
-# my_downloader.download('E', limit=50)
