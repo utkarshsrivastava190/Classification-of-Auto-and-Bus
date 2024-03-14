@@ -14,10 +14,7 @@ cur_path = os.getcwd() #To get current directory
 
 
 classs = { 1:"Auto",
-    2:"Bus",
-    # 3:"Symphony-Air-Cooler"
-    # 4:"D",
-    # 5:"E"
+    2:"Bus"
 }
 i=1
 #Retrieving the images and their labels
